@@ -63,8 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FollowPlayer.cs" />
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Rotator.cs" />
+    <Compile Include="Assets\Scripts\ColorsEnum.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

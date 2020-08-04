@@ -12,14 +12,5 @@ public class Rotator : MonoBehaviour
        
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Debug.Log("Hello");
-        Debug.Log(collision.tag);
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Debug.Log(collision.collider.tag);
-    }
+  
 }
