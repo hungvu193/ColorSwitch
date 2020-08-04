@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{52DF68E3-85E0-57CE-E0FF-1CEB7853B08F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Rotator.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="13" Column="50" />
+      <File FileName="Assets/Rotator.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Color Switch Clone" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Rotator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Vector2.up</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96be2ec0-e5d4-41ef-bee3-92286b9b93c4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
